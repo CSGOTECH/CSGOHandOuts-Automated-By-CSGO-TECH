@@ -37,7 +37,7 @@ var menu = document.createElement('div');
 menu.innerHTML = '' +
     '<div class="form-group">' +
     '<div class="text-center col-sm-6 col-sm-offset-3">' +
-    '<p><a href="https://github.com/CSGOTECH/CSGODiceGame-Automated-by-CSGO-TECH">CSGODiceGame.com Automated <small>by CSGO TECH</small></a></p>' +
+    '<p><a href="https://github.com/CSGOTECH/CSGOHandOuts-Automated-by-CSGO-TECH">CSGOHandOuts.com Automated <small>by CSGO TECH</small></a></p>' +
     '<input id="rollscript" type="button" value="| Start the Script |" onClick="startscript()">' +
     '<input id="rollscript" type="button" value="| End the Script |" onClick="endscript()">' +
     '<input id="rollscript" type="button" value="| Change Base Bet |" onClick="changebase()">' +
